@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark-blue: rgb(14, 42, 100);
+  --color-bright-blue: rgb(54, 123, 246);
+  --color-light-gray: rgb(241, 242, 246);
+  --color-pale-gray: rgb(222, 227, 233);
+  --color-dark-teal: rgb(7, 85, 52);
+  --color-deep-blue: rgb(31, 74, 149);
+  --color-steel-blue: rgb(56, 72, 101);
+  --color-very-light-blue: rgb(230, 241, 254);
+  --color-soft-light-blue: rgb(218, 233, 253);
+  --color-navy-blue: rgb(11, 33, 75);
+  --color-gray-blue: rgb(132, 153, 186);
+  --color-purple: rgb(128, 0, 128);
+}
+
+body {
+  background-color: rgb(241, 242, 246);
+  color: rgb(7, 8, 52);
+  font-size: 16px;
+  padding: 2.5rem;
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; */
+}
+
+* {
+  transition: all 0.3s ease;
+}
