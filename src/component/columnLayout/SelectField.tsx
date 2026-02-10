@@ -17,7 +17,7 @@ const SelectField = ({ label, value, icon, avatar, action }: any) => {
           {avatar && (
             <div>
               <img
-                src="public/assets/image.jpg"
+                src="/assets/image.jpg"
                 alt="user"
                 className="w-6 h-6 rounded-full"
               />

@@ -8,7 +8,7 @@ const Message = ({ message }: any) => {
         <div className="flex items-center gap-3">
           <div>
             <img
-              src="public/assets/image.jpg"
+              src="/assets/image.jpg"
               alt="user"
               className="w-8 h-8 rounded-full"
             />

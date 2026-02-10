@@ -43,14 +43,14 @@ const CenterColumn = () => {
             <div className="flex -space-x-2">
               <div>
                 <img
-                  src="public/assets/image.jpg"
+                  src="/assets/image.jpg"
                   alt="user"
                   className="w-8 h-8 rounded-full"
                 />
               </div>
               <div>
                 <img
-                  src="public/assets/person1.jpg"
+                  src="/assets/person1.jpg"
                   alt="user"
                   className="w-8 h-8 rounded-full"
                 />
@@ -79,7 +79,7 @@ const CenterColumn = () => {
             <div className="flex items-center gap-2 bg-gray-100 px-2 py-1 rounded-lg">
               <div>
                 <img
-                  src="public/assets/image.jpg"
+                  src="/assets/image.jpg"
                   alt="user"
                   className="w-5 h-5 rounded-full"
                 />
