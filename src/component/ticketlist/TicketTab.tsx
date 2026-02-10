@@ -1,29 +1,7 @@
 import { Headset } from "lucide-react";
 import { BsChevronDown } from "react-icons/bs";
 import { CiViewBoard } from "react-icons/ci";
-
-export const ticketItems = [
-  {
-    name: "My Tickets",
-    notification: 9,
-  },
-  {
-    name: "Past Due",
-    notification: 4,
-  },
-  {
-    name: "Hight Priority",
-    notification: 11,
-  },
-  {
-    name: "Unassigned",
-    notification: 98,
-  },
-  {
-    name: "All Tickets",
-    notification: 2199,
-  },
-];
+import { ticketItems } from "../../data/data";
 
 const TicketTab = () => {
   return (
