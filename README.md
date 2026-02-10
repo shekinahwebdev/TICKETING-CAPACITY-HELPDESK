@@ -11,5 +11,5 @@ Only design
 
 ## MAGE BY
 
-PATRICIA SHILOH KANNHE
+PATRICIA SHILOH KANNEH
 patriciashilohkanneh12@gmail.com
