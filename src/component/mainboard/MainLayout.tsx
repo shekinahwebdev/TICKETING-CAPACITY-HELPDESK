@@ -1,9 +1,9 @@
-import TicketList from "../../../features/tickets/component/TicketList/TicketViewLayout";
+import TicketList from "../ticketlist/TicketViewLayout";
 import ThreeColumnLayout from "./ThreeColumnLayout";
 
 export const MainLayout = () => {
   return (
-    <div className="w-full">
+    <div className="w-full relative">
       <TicketList />
       <ThreeColumnLayout />
     </div>

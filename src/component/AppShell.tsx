@@ -1,10 +1,10 @@
-import Header from "./Header/Header";
-import { MainLayout } from "./MainLayout/MainLayout";
-import Sidebar from "./SideBar/Sidebar";
+import Header from "./layout/Header";
+import { MainLayout } from "./mainboard/MainLayout";
+import Sidebar from "./layout/Sidebar";
 
 const AppShell = () => {
   return (
-    <main className="bg-dark-blue w-full h-[120vh] flex flex-col rounded-2xl">
+    <main className="bg-dark-blue w-full h-[124vh] flex flex-col rounded-2xl">
       <div>
         <Header />
       </div>

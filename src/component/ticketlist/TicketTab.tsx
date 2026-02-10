@@ -27,7 +27,7 @@ export const ticketItems = [
 
 const TicketTab = () => {
   return (
-    <div className="flex flex-col w-full max-w-56 gap-3">
+    <div className="flex flex-col w-full max-w-52 gap-3">
       <header className="flex flex-row bg-pale-gray rounded-sm items-center justify-start px-2.5 py-2 text-dark-blue gap-3">
         <BsChevronDown size={13} />
         <span className="uppercase text-xs font-bold">Ticket Views</span>

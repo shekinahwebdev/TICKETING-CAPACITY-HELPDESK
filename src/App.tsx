@@ -1,4 +1,4 @@
-import AppShell from "./app/AppShell/AppShell";
+import AppShell from "./component/AppShell";
 
 const App = () => {
   return (
